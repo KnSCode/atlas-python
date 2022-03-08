@@ -1,3 +1,3 @@
-## A.T.L.A.S.
+# A.T.L.A.S.
 
-# Automated Transfer Learning with Agnostic data Sources
+## Automated Transfer Learning with Agnostic data Sources
