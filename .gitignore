@@ -130,3 +130,7 @@ dmypy.json
 
 .ipynb_checkpoints
 .ipynb_checkpoints/*
+
+.atlas-env
+.idea/
+.DS_Store
